@@ -61,7 +61,7 @@
 
 	body {
 		background: #fff;
-		font-family: 'sourcehansans-tc';
+		font-family: 'sourcehansans-tc',sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -74,7 +74,7 @@
 	}
 
 	input, textarea, select {
-		font-family: 'sourcehansans-tc';
+		font-family: 'sourcehansans-tc',sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -160,14 +160,14 @@
 		background: rgba(0, 0, 0, 0.05);
 		border-color: rgba(0, 0, 0, 0.2);
 		border-radius: 4px;
-		font-family: 'sourcehansans-tc';
+		font-family: 'sourcehansans-tc',sans-serif;
 		font-size: 0.9em;
 		padding: 0.25em 0.325em;
 	}
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: 'sourcehansans-tc';
+		font-family: 'sourcehansans-tc',sans-serif;
 		font-size: 0.9em;
 		tab-size: 4;
 		margin: 0 0 2em 0;
