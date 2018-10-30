@@ -20,8 +20,7 @@ E-mail:<a href="mailto:chenh2@cc.shu.edu.tw" target="_blank" class="main_link1" 
 
 <p><strong>研究著作：</strong></p>
 
-<p><br />
-  學位論文<br />
+<p>學位論文<br />
   Chen, Hsin-Hsing. 1999, Man, Machine and the Gods: Skill, Hegemony and Culture in the Making of Taiwanese Machinists Dissertation, Dept. of Science and Technology Studies, Rensselaer Polytechnic Institute.</p>
 <p>期刊論文<br />
   1. 陳信行，2005.12，〈全球化時代的國家、市民社會與跨國階級政治──從台灣支援中美洲工人運動的兩個案例談起〉，《台灣社會研究季刊》，60：35-110。（TSSCI）<br />
