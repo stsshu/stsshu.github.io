@@ -14,7 +14,8 @@ hide: true
 連絡電話(公)：02-2236-8225#3514<br />
                             
 E-mail:<a href="mailto:chencl@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給陳政亮(開心視窗)">chencl@cc.shu.edu.tw</a><br />
-研究著作：<br />
+<p><strong>研究著作：</strong></p>
+<br />
 一、學位論文<br />
 陳政亮，1996.06，《父權/兄弟關係：自主工會的運作》，東海大學社會學研究所碩士論文。<br />
 陳政亮，2004.06, Engendering Soldiers in the Taiwanese Military: Obedience, Masculinity and Resistance. Lancaster University, Sociology Department 博士論文。
