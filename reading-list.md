@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: 系所規定
+subtitle: 
 layout: "page"
 icon: fa-book
 order: 3
