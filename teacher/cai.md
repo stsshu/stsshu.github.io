@@ -6,8 +6,7 @@ hide: true
 
 <span class="image right"><img src="{{ 'assets/images/cai.jpg' | relative_url }}" alt="" /></span>
 
-現職：世新大學社會發展研究所副教授（2016迄今）
-　　　（助理教授2008-2015）
+現職：世新大學社會發展研究所副教授（2016迄今)（助理教授2008-2015）
 
 最高學歷：台灣大學生物產業傳播暨發展學系博士
 
