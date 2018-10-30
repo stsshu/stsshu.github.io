@@ -7,15 +7,16 @@ hide: true
 <span class="image right"><img src="{{ 'assets/images/zheng.jpg' | relative_url }}" alt="" /></span>
 
 現職：世新大學社會發展研究所副教授
+
 最高學歷：lancaster Unversity , Sociology Department博士
+
 學術專長：科學研究、性別研究、勞動研究
+
 開設課程：社會發展理論與研究；社會研究方法與實踐；認同政治；男性研究與發展；社會理論；論文寫作；科學、技術與社會；反思多元文化；族群、發展與認同；社會學 
 
 連絡電話(公)：02-2236-8225#3514<br />
-                            
 E-mail:<a href="mailto:chencl@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給陳政亮(開心視窗)">chencl@cc.shu.edu.tw</a><br />
 <p><strong>研究著作：</strong></p>
-<br />
 一、學位論文<br />
 陳政亮，1996.06，《父權/兄弟關係：自主工會的運作》，東海大學社會學研究所碩士論文。<br />
 陳政亮，2004.06, Engendering Soldiers in the Taiwanese Military: Obedience, Masculinity and Resistance. Lancaster University, Sociology Department 博士論文。
