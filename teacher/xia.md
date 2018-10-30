@@ -22,7 +22,7 @@ E-mail:<a href="mailto:hsiahc@ms11.hinet.net" target="_blank" class="main_link1"
 
 <p><strong>Ａ、期刊論文</strong></p>
 <ol>
-  <li><a href="download/article_hsia/A-01 Some Thoughts and Inquiries about Cross-Over Interaction.pdf" target="_blank">1. 夏曉鵑，2016，﹤關於跨域連結的反思與提問﹥，《台灣社會研究季刊》，第一０二期，頁145-163。 </a></li>
+  <li><a href="download/article_hsia/A-01 Some Thoughts and Inquiries about Cross-Over Interaction.pdf" target="_blank">夏曉鵑，2016，﹤關於跨域連結的反思與提問﹥，《台灣社會研究季刊》，第一０二期，頁145-163。 </a></li>
   <li><a href="download/article_hsia/A-02 The_Making_of_a_Transnational_Grassroots.pdf">夏曉鵑，2014，﹤跨國草根移工運動的形成: 香港「亞洲移工協調會」案例研究﹥，《台灣社會研究季刊》，第九十六期，頁一至四十七。(NSC 100-2628-H-128-003-MY3)</a></li>
   <li><a href="download/article_hsia/A-03 The De-Spirited Drink.pdf" target="_blank">夏曉鵑，2010，&lt;失神的酒─以酒為鑑初探原住民社會資本主義化過程&gt;，《台灣社會研究季刊》，第七十七期，頁5至58，(TSSCI)(NSC91-2745-P-128-001) </a></li>
   <li>夏曉鵑，2009，﹤知識介入與移民／工運動的推進(一)﹥，《台灣社會研究季刊》，第七十四期，頁三六七至三八二。 </li>
