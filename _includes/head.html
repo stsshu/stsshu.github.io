@@ -2,7 +2,6 @@
   {%- if site.google_analytics and jekyll.environment == 'production' -%}
     {%- include google_analytics.html -%}
   {%- endif -%}
-  <script src="//s3-ap-northeast-1.amazonaws.com/justfont-user-script/jf-57024.js"></script>
   <!-- Robots -->
   <meta name="robots" content="{{- page.robots | default: 'index, follow' -}}" />
   {%- unless page.canonical == false -%}<link rel="canonical" href="{{- page.url | absolute_url -}}" />{%- endunless -%}
