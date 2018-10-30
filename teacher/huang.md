@@ -12,8 +12,6 @@ hide: true
 
 開設課程：中國大陸發展；專題研討：中國大陸政治經濟分析；勞工研究；農村發展研究；政治發展
 
-連絡電話(公)：02-2236-8225#3516<br />傳真號碼(公)：02-2236-5732
-
 連絡電話(公)：02-2236-8225#3516<br />
 傳真號碼(公)：02-2236-5732<br />
 E-mail:<a href="mailto:tphuang@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給黃德北(開心視窗)">tphuang@cc.shu.edu.tw</a><br />
