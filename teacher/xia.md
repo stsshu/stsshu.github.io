@@ -4,6 +4,8 @@ layout: post
 hide: true
 ---
 
+<span class="image right"><img src="{{ 'assets/images/xia.jpg' | relative_url }}" alt="" /></span>
+
 現職：世新大學社會發展研究所教授
 
 最高學歷：美國佛羅里達大學社會學博士
@@ -15,9 +17,10 @@ hide: true
 <p>連絡電話(公)：02-2236-8225#3511<br />
 傳真號碼(公)：02-2236-5732<br />
 E-mail:<a href="mailto:hsiahc@ms11.hinet.net" target="_blank" class="main_link1" title="寄信給夏曉鵑(開心視窗)">hsiahc@ms11.hinet.net</a><br />
-研究著作：<br />
+	
+研究著作：
 
-<strong>Ａ、期刊論文</strong></p>
+<p><strong>Ａ、期刊論文</strong></p>
 <ol>
   <li><a href="download/article_hsia/A-01 Some Thoughts and Inquiries about Cross-Over Interaction.pdf" target="_blank">1. 夏曉鵑，2016，﹤關於跨域連結的反思與提問﹥，《台灣社會研究季刊》，第一０二期，頁145-163。 </a></li>
   <li><a href="download/article_hsia/A-02 The_Making_of_a_Transnational_Grassroots.pdf">夏曉鵑，2014，﹤跨國草根移工運動的形成: 香港「亞洲移工協調會」案例研究﹥，《台灣社會研究季刊》，第九十六期，頁一至四十七。(NSC 100-2628-H-128-003-MY3)</a></li>
