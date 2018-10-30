@@ -44,7 +44,8 @@ E-mail:<a href="mailto:hsiahc@ms11.hinet.net" target="_blank" class="main_link1"
   <li>夏曉鵑，1997, 6月, 〈女性身體的貿易：台灣／印尼新娘貿易的階級、族群關係與性別分析〉，《騷動季刊》，第四期，頁10-21</li>
   <li>Hsia, Hsiao-Chuan and John H. Scanzoni, 1996, &ldquo;Rethinking the  Roles of Japanese Women,&rdquo; Journal of Comparative Family Studies, 27(2):  309-329.. (SSCI)</li>
 </ol>
-<p><strong>　Ｂ、研討會論文</strong><strong> </strong></p>
+<p>
+<strong>Ｂ、研討會論文</strong></p>
 <ol>
   <li>Hsia,  Hsiao-Chuan, 2010, &ldquo;The  Making of Undocumented Im/migrants-the case of Taiwan&rdquo;,  Asia  Pacific Conference of Migrants Service Providers on Undocumented Migrants and  the Current Global Economic Crisis, Academy House  Hotel, 76, Suyu 6-dong, Gangbuk-gu, Seoul City, July 16 and 17, 2010.&nbsp; </li>
   <li>Hsia, Hsiao-Chuan, 2009, &ldquo;The Tug-of-War over &lsquo;Multiculturalism&rsquo;:  Contestation between Governing and Empowering Immigrants in Taiwan,&rdquo; Presented  at the conference on &ldquo;Migration, Societal and Market Transformation &ndash;  Perceptions, Debates and Policies in Asia and Europe&rdquo;,16-17 March 2009, in  Singapore. </li>
