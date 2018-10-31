@@ -1,5 +1,5 @@
 ---
-title: 本所課程
+title: 本所規定
 subtitle: 
 layout: "page"
 icon: fa-book
