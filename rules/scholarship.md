@@ -26,4 +26,4 @@ hide: true
 電話：02-22368225#63512
 電子郵件：e62@cc.shu.edu.tw
 
-<p class="main_text"><a href="download/rule991125.doc" title="世新大學成露茜紀念獎學金辦法">世新大學成露茜紀念獎學金辦法</a> <a href="download/form991125.doc" title="世新大學成露茜紀念獎學金申請表">世新大學成露茜紀念獎學金申請表</a></p>
+<p class="main_text"><a href="../download/rule991125.doc" title="世新大學成露茜紀念獎學金辦法">世新大學成露茜紀念獎學金辦法</a> <a href="../download/form991125.doc" title="世新大學成露茜紀念獎學金申請表">世新大學成露茜紀念獎學金申請表</a></p>
