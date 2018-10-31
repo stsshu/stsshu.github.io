@@ -13,4 +13,4 @@ order: 3
 4. [定點實習辦法](rules/pratical.html)
 5. [碩士學位考試相關規定](rules/exam.html)
 6. [指導教授制度](rules/tutor.html)
-7. [世新大學成露茜紀念獎學金辦法](rules/scholarship.html)
+7. [世新大學成露茜紀念獎學金](rules/scholarship.html)
