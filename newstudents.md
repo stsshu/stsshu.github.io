@@ -6,7 +6,7 @@ icon: fa-user-graduate
 order: 4
 ---
 
-<iframe width="800" src="https://www.youtube.com/embed/PAXZF5wAjzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/PAXZF5wAjzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 所長的話
 
