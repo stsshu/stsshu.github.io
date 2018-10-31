@@ -18,6 +18,8 @@ order: 4
 
 <p align="right">黃德北  </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PAXZF5wAjzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ＊＊＊碩士班甄試＊＊＊
 
 報名自107/10/11上午10:00-107/10/26下午2:30止   
@@ -28,8 +30,6 @@ order: 4
 ### ＊＊＊ 獎學金＊＊＊ 
 
 為延續本所創辦人成露茜教授堅持有學有術的理念，實踐改造社會的理想，並鼓勵社發所學-生深耕理論與實踐，特訂定『世新大學成露茜紀念獎學金辦法』，每年補助2-6名本所一、二年級學生，國內生每名每學期最高可得伍萬元獎學金，新移民與外國學生每年度最高可得十萬元獎學金。[（詳情）](rules/scholarship.html)
-
-招生影片→https://youtu.be/PAXZF5wAjzU
 
 ### ＊＊＊報名/就學優惠＊＊＊
 
