@@ -6,10 +6,6 @@ layout: post
 
 
 
-![](../assets/images/summer school/2018 summer.jpg)
+<span class="image"><img width="50%"  src="{{ 'assets/images/summer-school/2018-summer.jpg' | relative_url }}" alt="" /></span>
 
 
-
-test
-
-ffwfwefewfwefffffffm
