@@ -9,7 +9,7 @@ layout: post
 社發所碩士在職專班第一屆畢業生  
 現任天下雜誌教育基金會研發長
 
-![](../assets/images/alumni/liao01.jpg)
+<span class="image"><img src="{{ 'assets/images/alumni/liao01.jpg' | relative_url }}" alt="" /></span>
 
 ## 社發所教會我的事
 
@@ -33,4 +33,4 @@ layout: post
 
 廖雲章（天下雜誌教育基金會 研發長）
 
-![](../assets/images/alumni/liao02.jpg)
+<span class="image"><img src="{{ 'assets/images/alumni/liao02.jpg' | relative_url }}" alt="" /></span>
