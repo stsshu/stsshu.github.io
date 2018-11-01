@@ -6,7 +6,7 @@ layout: post
 
 
 
-![](../assets/images/summer school/2018 summer.jpg)
+<span class="image"><img src="{{ 'assets/images/summer-school/2018-summer.jpg' | relative_url }}" alt="" /></span>
 
 
 
