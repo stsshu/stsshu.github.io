@@ -4,7 +4,7 @@ author:
 layout: post
 ---
 
-<span class="image left"><img src="{{ 'assets/images/alumni/zhou01.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/alumni/zhou01.jpg' | relative_url }}" alt="" /></span>
 
 作者介紹：  
 周憶如  
@@ -13,8 +13,6 @@ layout: post
 2030台灣無貧困推進協會秘書長
 
 ## 暢快你的社會意識敏感帶
-
- 
 
 有一種敏感帶,陌生卻存在,  
 內隱在身體裏,總是使人蠢蠢欲動,  
