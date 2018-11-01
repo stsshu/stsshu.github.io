@@ -2,6 +2,7 @@
 title: 校友介紹:在職專班 周憶如
 author: 
 layout: post
+cover-photo: assets/images/alumni/zhou01.jpg
 ---
 
 <span class="image left"><img src="{{ 'assets/images/alumni/zhou01.jpg' | relative_url }}" alt="" /></span>
