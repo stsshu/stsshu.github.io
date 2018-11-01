@@ -1,5 +1,5 @@
 ---
-title: 校友介紹:在職專班 廖雲章
+title: 校友介紹:碩專 廖雲章
 author: 
 layout: post
 ---
@@ -7,7 +7,7 @@ layout: post
 <span class="image right"><img src="{{ 'assets/images/alumni/liao01.jpg' | relative_url }}" alt="" /></span>
 
 作者介紹：     	
-社發所碩士在職專班第一屆畢業生  
+社發所碩士碩專第一屆畢業生  
 現任天下雜誌教育基金會研發長
 
 ## 社發所教會我的事

@@ -1,5 +1,5 @@
 ---
-title: 校友介紹:在職專班 周憶如
+title: 校友介紹:碩專 周憶如
 author: 
 layout: post
 ---
@@ -7,7 +7,7 @@ layout: post
 <span class="image right"><img src="{{ 'assets/images/alumni/zhou01.jpg' | relative_url }}" alt="" /></span>
 
 作者介紹：    
-社發所碩士在職專班第六屆畢業生  
+社發所碩士碩專第六屆畢業生  
 南洋台灣姐妹會議題委員會召集人  
 2030台灣無貧困推進協會秘書長
 

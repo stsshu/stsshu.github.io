@@ -1,5 +1,5 @@
 ---
-title: 校友介紹:在職專班 林黛嫚
+title: 校友介紹:碩專 林黛嫚
 author: 
 layout: post
 ---
@@ -7,7 +7,7 @@ layout: post
 <span class="image right"><img src="{{ 'assets/images/alumni/lin01.jpg' | relative_url }}" alt="" /></span>
 
 作者介紹：    
-社發所碩士在職專班第二屆畢業生   
+社發所碩士碩專第二屆畢業生   
 作家、淡江大學中國文學系專任助理教授
 
 ## 問題中年—社發所與我
