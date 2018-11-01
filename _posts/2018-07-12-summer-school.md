@@ -6,7 +6,7 @@ layout: post
 
 
 
-<span class="image"><img width="10%"  src="{{ 'assets/images/summer-school/2018-summer.jpg' | relative_url }}" alt="" /></span>
+<span class="image"><img style="width:10%;"  src="{{ 'assets/images/summer-school/2018-summer.jpg' | relative_url }}" alt="" /></span>
 
 
 ## 2018 世新社發所夏季草根學校 
