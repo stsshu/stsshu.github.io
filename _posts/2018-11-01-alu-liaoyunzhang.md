@@ -4,10 +4,9 @@ author:
 layout: post
 ---
 
-<span class="image left"><img src="{{ 'assets/images/alumni/liao01.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/alumni/liao01.jpg' | relative_url }}" alt="" /></span>
 
-作者介紹：  
-廖雲章   	
+作者介紹：     	
 社發所碩士在職專班第一屆畢業生  
 現任天下雜誌教育基金會研發長
 

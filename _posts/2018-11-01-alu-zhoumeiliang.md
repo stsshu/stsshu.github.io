@@ -4,10 +4,9 @@ author:
 layout: post
 ---
 
-<span class="image left"><img src="{{ 'assets/images/alumni/lin01.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/alumni/lin01.jpg' | relative_url }}" alt="" /></span>
 
-作者介紹：  
-林黛嫚  
+作者介紹：    
 社發所碩士在職專班第八屆畢業生  
 目前為立法委員服務處助理
 

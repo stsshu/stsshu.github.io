@@ -4,10 +4,9 @@ author:
 layout: post
 ---
 
-<span class="image left"><img src="{{ 'assets/images/alumni/huang01.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/alumni/huang01.jpg' | relative_url }}" alt="" /></span>
 
-作者介紹：  
-黃琬玲  
+作者介紹：    
 社發所碩士在職專班第六屆畢業生  
 現任台北市私立非營利幼兒園園長
 

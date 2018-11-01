@@ -6,8 +6,7 @@ layout: post
 
 <span class="image right"><img src="{{ 'assets/images/alumni/zhou01.jpg' | relative_url }}" alt="" /></span>
 
-作者介紹：  
-周憶如  
+作者介紹：    
 社發所碩士在職專班第六屆畢業生  
 南洋台灣姐妹會議題委員會召集人  
 2030台灣無貧困推進協會秘書長
