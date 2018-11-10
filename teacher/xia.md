@@ -6,11 +6,17 @@ hide: true
 
 <span class="image right"><img src="{{ 'assets/images/xia.jpg' | relative_url }}" alt="" /></span>
 
-現職：世新大學社會發展研究所教授
+Name: Hsiao-Chuan Hsia  
+Position: Professor    
+Education: Ph.D., Department of Sociology, University of Florida   
+Contacts:  
+- TEL: (02) 22368225 ext. 83511  
+- FAX: (02) 22365732  
+- E-mail: hsiahc@ms11.hinet.net/ hsiaochuan.hsia@gmail.com
 
-最高學歷：美國佛羅里達大學社會學博士
-
-學術專長：移民研究、性別與發展、原住民發展、實踐式研究
+現職：世新大學社會發展研究所教授  
+最高學歷：美國佛羅里達大學社會學博士  
+學術專長：移民研究、性別與發展、原住民發展、實踐式研究  
 
 開設課程：社會發展理論與研究；社會研究方法與實踐；戰後台灣發展；性別與發展；台灣產業發展與女性勞動；比較婦女運動；移民／工與發展；移民與性別；台灣原住民部落發展；國際原住民運動；原住民性別研究；組織的培力。
 
