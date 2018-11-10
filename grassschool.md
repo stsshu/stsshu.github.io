@@ -1,5 +1,5 @@
 ---
-title: 夏季草根營隊
+title: 草根學校
 subtitle: 
 layout: "page"
 icon: fa-shoe-prints
