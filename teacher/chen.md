@@ -6,17 +6,23 @@ hide: true
 
 <span class="image right"><img src="{{ 'assets/images/chen.jpg' | relative_url }}" alt="" /></span>
 
-現職：世新大學社會發展研究所副教授
+Name: Hsin-Hsing Chen  
+Position: Professor    
+Education: Ph.D., Science and Technology Studies, Rensselaer Polytechnic Institute  
+Contacts:  
+  TEL: (02) 22368225 ext. 83517  
+  FAX: (02) 22365732  
+  E-mail: chenh2@mail.shu.edu.tw  
 
-最高學歷：美國壬色列理工學院科學與技術研究博士
-
-學術專長：勞工研究、科學與技術研究、應用文化人類學
+現職：世新大學社會發展研究所副教授  
+最高學歷：美國壬色列理工學院科學與技術研究博士  
+學術專長：勞工研究、科學與技術研究、應用文化人類學  
 
 開設課程： 	社會發展理論與研究、社會研究方法與實踐、社會發展與適當科技、勞工研究、勞動過程研究、文化行動主義、社會運動理論與實踐、論文寫作、科學與技術研究、戰後台灣發展、宗教社會運動
 
 連絡電話(公)：02-2236-8225#3517<br />
 傳真號碼(公)：02-2236-5732<br />
-E-mail:<a href="mailto:chenh2@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給陳信行(開心視窗)">chenh2@cc.shu.edu.tw</a>　<a href="mailto:dkchen@tcts.seed.net.tw" class="main_link1" title="寄信給陳信行(開心視窗)">dkchen@tcts.seed.net.tw</a><br />
+E-mail：<a href="mailto:chenh2@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給陳信行(開心視窗)">chenh2@cc.shu.edu.tw</a>　<a href="mailto:dkchen@tcts.seed.net.tw" class="main_link1" title="寄信給陳信行(開心視窗)">dkchen@tcts.seed.net.tw</a><br />
 
 <p><strong>研究著作：</strong></p>
 

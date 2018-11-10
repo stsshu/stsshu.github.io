@@ -6,13 +6,18 @@ hide: true
 
 <span class="image right"><img src="{{ 'assets/images/cai.jpg' | relative_url }}" alt="" /></span>
 
-現職：世新大學社會發展研究所副教授（2016迄今)（助理教授2008-2015）
+Name: Pei-Hui Tsai  
+Position: Associate Professor    
+Education: Ph.D., Department of Bio-Industry Communication and Development, National Taiwan  University   
+Contacts:  
+  TEL: (02) 22368225 ext.83513  
+  FAX: (02) 22365732  
+  E-mail: peihui@mail.shu.edu.tw  
 
-最高學歷：台灣大學生物產業傳播暨發展學系博士
-
-學術專長：農民研究、台灣農業政策、農業合作化
-
-目前研究主題：小農交換的社會基礎、社區協力農業(CSA)、社會經濟
+現職：世新大學社會發展研究所副教授（2016迄今)（助理教授2008-2015）  
+最高學歷：台灣大學生物產業傳播暨發展學系博士  
+學術專長：農民研究、台灣農業政策、農業合作化  
+目前研究主題：小農交換的社會基礎、社區協力農業(CSA)、社會經濟  
 
 開設課程：農村發展；社會研究方法理論與實踐、合作與社會發展
 
