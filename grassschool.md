@@ -2,7 +2,7 @@
 title: 夏季草根營隊
 subtitle: 2018年
 layout: "page"
-icon: fa-user-circle
+icon: fa-shoe-prints
 order: 7
 ---
 
