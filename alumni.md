@@ -9,7 +9,7 @@ order: 5
 
 ## 在職專班
 
-[廖雲章](2018/11/01/alu-liaoyunzhang.html)／[黃琬玲](2018/11/01/alu-huangwanling.html)／[周憶如]((2018/11/01/alu-zhouyiru.html))／[陳德亮](2018/11/01/alu-huangdeliang.html)/[謝梅華]((2018/11/01/alu-xiemeihua.html)／[林黛嫚]((2018/11/01/alu-lindaiman.html)/[周玫良]((2018/11/01/alu-zhoumeiliang.html))
+[廖雲章](2018/11/01/alu-liaoyunzhang.html)／[黃琬玲](2018/11/01/alu-huangwanling.html)／[周憶如](2018/11/01/alu-zhouyiru.html)／[陳德亮](2018/11/01/alu-huangdeliang.html)/[謝梅華](2018/11/01/alu-xiemeihua.html)／[林黛嫚](2018/11/01/alu-lindaiman.html)/[周玫良](2018/11/01/alu-zhoumeiliang.html)
 
 ## 碩士班
 
