@@ -6,9 +6,9 @@ icon: fa-shoe-prints
 order: 7
 ---
 
-<span class="image"><img style="width:60%;"  src="{{ 'assets/images/summer-school/2018-summer.jpg' | relative_url }}" alt="" /></span>
-  
 世新大學社會發展研究所每年夏季舉辦「草根學校」，旨在延續社會發展所創所理念「有學有術、實踐基層、回歸理論、再造社會」，藉由實際的田野走訪、深入淺出、活潑互動、激發討論的課程規劃，擴大青年學子對社會發展議題的視野。
+
+<span class="image"><img style="width:60%;"  src="{{ 'assets/images/summer-school/2018-summer.jpg' | relative_url }}" alt="" /></span>
 
 ## 2018 世新社發所夏季草根學校 
 ### 【德拉奇的淚與汗】 ── 找回小米感恩祭
