@@ -20,7 +20,7 @@ Contacts:
 
 連絡電話(公)：02-2236-8225#3516<br />
 傳真號碼(公)：02-2236-5732<br />
-E-mail:<a href="mailto:tphuang@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給黃德北(開心視窗)">tphuang@cc.shu.edu.tw</a><br />
+E-mail：<a href="mailto:tphuang@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給黃德北(開心視窗)">tphuang@cc.shu.edu.tw</a><br />
 研究著作：<br />
 <p>期刊論文<br />
   1.	黃德北、陳蓉怡，2010，〈中國大陸地方政府城市新移民治理政策之研究：一個比較的分析〉，《亞洲研究》，60期(2010年2月)，pp.111-147。</p>

@@ -22,7 +22,7 @@ Contacts:
 
 <p>連絡電話(公)：02-2236-8225#3511<br />
 傳真號碼(公)：02-2236-5732<br />
-E-mail:<a href="mailto:hsiahc@ms11.hinet.net" target="_blank" class="main_link1" title="寄信給夏曉鵑(開心視窗)">hsiahc@ms11.hinet.net</a><br />
+E-mail：<a href="mailto:hsiahc@ms11.hinet.net" target="_blank" class="main_link1" title="寄信給夏曉鵑(開心視窗)">hsiahc@ms11.hinet.net</a><br />
 	
 <p><strong>研究著作：</strong></p>
 
