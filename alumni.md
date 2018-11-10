@@ -3,7 +3,7 @@ title: 校友的話
 subtitle: 
 layout: "page"
 icon: fa-user-circle
-order: 5
+order: 6
 ---
 以下為本所畢業校友的介紹與心得分享，請點擊姓名進入查看：
 

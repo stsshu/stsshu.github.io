@@ -3,7 +3,7 @@ title: 本所規定
 subtitle: 
 layout: "page"
 icon: fa-book
-order: 3
+order: 4
 ---
 以下為本所與學生相關的各項規定、辦法：
 
