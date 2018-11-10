@@ -2,7 +2,7 @@
 title: 本所课程
 subtitle: 
 layout: "page"
-icon: fa-scroll
+icon: fas fa-scroll
 order: 3
 ---
 
