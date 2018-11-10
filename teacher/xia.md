@@ -10,9 +10,9 @@ Name: Hsiao-Chuan Hsia
 Position: Professor    
 Education: Ph.D., Department of Sociology, University of Florida   
 Contacts:  
-- TEL: (02) 22368225 ext. 83511  
-- FAX: (02) 22365732  
-- E-mail: hsiahc@ms11.hinet.net/ hsiaochuan.hsia@gmail.com
+  TEL: (02) 22368225 ext. 83511  
+  FAX: (02) 22365732  
+  E-mail: hsiahc@ms11.hinet.net/ hsiaochuan.hsia@gmail.com
 
 現職：世新大學社會發展研究所教授  
 最高學歷：美國佛羅里達大學社會學博士  
