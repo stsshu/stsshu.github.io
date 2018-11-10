@@ -6,6 +6,18 @@ hide: true
 
 <span class="image right"><img src="{{ 'assets/images/huang.jpg' | relative_url }}" alt="" /></span>
 
+Name: Te-Pei Huang
+
+Position: Professor and Director 
+
+Education: Ph.D., Department of Political Science, National Cheng-Chi University 
+
+Contacts
+- TEL: (02) 22368225 ext. 83516
+- FAX: (02) 22365732
+- E-mail:tphuang@mail.shu.edu.tw
+
+
 現職：世新大學社會發展研究所教授兼所長
 
 學術專長：中國大陸研究、勞工研究、政治發展
