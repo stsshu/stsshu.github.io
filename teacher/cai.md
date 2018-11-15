@@ -23,7 +23,7 @@ Contacts:
 
 <p>連絡電話(公)：02-2236-8225#3513<br>
 傳真號碼(公)：02-2236-5732<br>
-E-mail：peihui@cc.shu.edu.tw</p>
+E-mail：peihui@mail.shu.edu.tw</p>
  
 ## 研究著作：
 

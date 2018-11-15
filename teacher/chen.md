@@ -22,7 +22,7 @@ Contacts:
 
 連絡電話(公)：02-2236-8225#3517<br />
 傳真號碼(公)：02-2236-5732<br />
-E-mail：<a href="mailto:chenh2@cc.shu.edu.tw" target="_blank" class="main_link1" title="寄信給陳信行(開心視窗)">chenh2@cc.shu.edu.tw</a>　<a href="mailto:dkchen@tcts.seed.net.tw" class="main_link1" title="寄信給陳信行(開心視窗)">dkchen@tcts.seed.net.tw</a><br />
+E-mail：<a href="mailto:chenh2@mail.shu.edu.tw" target="_blank" class="main_link1" title="寄信給陳信行(開心視窗)">chenh2@mail.shu.edu.tw</a>　<a href="mailto:dkchen@tcts.seed.net.tw" class="main_link1" title="寄信給陳信行(開心視窗)">dkchen@tcts.seed.net.tw</a><br />
 
 <p><strong>研究著作：</strong></p>
 
