@@ -22,12 +22,12 @@ order: 5
 
 <p align="right">黃德北  </p>
 
-### ＊＊＊碩士班甄試＊＊＊
+### ＊＊＊碩士班考試入學＊＊＊
 
-報名自107/10/11上午10:00-107/10/26下午2:30止   
-口試:107/11/17  
-放榜:107/11/23  
-[招生簡章](https://drive.google.com/file/d/0BwegzJIBPrXgb1E4Yi0tamtEUWs/view?fbclid=IwAR3ICraxGXGtNlFDDmmczNE1EbUJw8hjC2g6avGn4dxz1ZUEXjl12nbd_g4)
+報名自107年12月20日上午10:00起至108年1月31日下午02:30止  
+面試:108/03/16  
+放榜:108/03/22  
+[招生簡章](download/108碩士班招生簡章(公告).pdf)
 
 ### ＊＊＊ 獎學金＊＊＊ 
 
