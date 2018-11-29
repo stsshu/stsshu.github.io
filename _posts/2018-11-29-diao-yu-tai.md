@@ -14,4 +14,4 @@ layout: post
 
 報名連結：https://goo.gl/forms/Jr1o59GzORJwiebU2
 
-<span class="image right"><img src="{{ 'assets/images/diaoyutai.jpg' | relative_url }}" alt="" /></span>
+<span class="image"><img src="{{ 'assets/images/diaoyutai.jpg' | relative_url }}" alt="" /></span>
