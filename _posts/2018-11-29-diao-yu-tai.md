@@ -12,6 +12,6 @@ layout: post
 
 1970年代到底是什麼樣的時代呢?我們邀請紀錄片導演張釗維老師以及老保釣王曉波老師、劉沅老師來談談他們的1970年代。透過個別所參與的運動，用青春譜寫的樂曲，來勾勒出整個時代的脈動與氛圍，讓我們一同進入1970......
 
-報名連結：https://goo.gl/forms/Jr1o59GzORJwiebU2
+[報名連結](https://goo.gl/forms/Jr1o59GzORJwiebU2)
 
 <span class="image"><img src="{{ 'assets/images/diaoyutai.jpg' | relative_url }}" alt="" /></span>
