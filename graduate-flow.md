@@ -2,7 +2,7 @@
 title: 畢業流向
 subtitle: 
 layout: "page"
-icon: fa-user-graduate
+icon: fa-code-branch
 order: 8
 ---
 
