@@ -4,7 +4,7 @@ layout: post
 hide: true
 ---
 
-<span class="image right"><img src="{{ 'assets/images/cai.jpg' | relative_url }}" alt="" /></span>
+<span style="max-width:30%;" class="image right"><img src="{{ 'assets/images/cai.jpg' | relative_url }}" alt="" /></span>
 
 Name: Pei-Hui Tsai  
 Position: Associate Professor    
