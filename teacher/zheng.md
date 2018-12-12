@@ -4,7 +4,7 @@ layout: post
 hide: true
 ---
 
-<span class="image right"><img src="{{ 'assets/images/zheng.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/zheng01.jpg' | relative_url }}" alt="" /></span>
 
 Name: Cheng-Liang Chen  
 Position: Associate Professor    
