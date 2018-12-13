@@ -15,7 +15,7 @@ Contacts:
   E-mail: chencl@mail.shu.edu.tw  
 
 現職：世新大學社會發展研究所副教授  
-最高學歷：lancaster Unversity , Sociology Department博士  
+最高學歷：Lancaster Unversity , Sociology Department博士  
 學術專長：科學研究、性別研究、勞動研究  
 
 開設課程：社會發展理論與研究；社會研究方法與實踐；認同政治；男性研究與發展；社會理論；論文寫作；科學、技術與社會；反思多元文化；族群、發展與認同；社會學 
