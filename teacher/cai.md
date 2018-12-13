@@ -47,7 +47,7 @@ E-mail：peihui@mail.shu.edu.tw</p>
 7. Tsai, Pei-Hui and Chung, Yi-ting 2008 “The Role of the Non-state Actors in the Post-Earthquake Reconstruction: A Case study of the Housing Reconstruction After the 921-Earthquke in Taiwan” Paper was prepared for The 38th International Institute of Sociology (IIS) World Congress. Jun 26-30, 2008, Budapest, Hungary.
 8. 蔡培慧，2008 .06.14＜解放教育的實踐與反思：以永和社大潛能123為例＞，發表於「非正規學習：跨組織與跨文化之對話國際學術研討會」，台北，台灣師範大學成人教育研究中心。
 9. 蔡培慧，2005.10.15 ＜戰後台灣鄉村發展與加入WTO效應＞，發表於「亞洲農民之聲公眾論壇」，香港全球化監察，香港，浸會大學善衡校園。
-10. 蔡培慧，2004.11.13 ＜組織知識：課程、對話與學習＞，發表於「社區大　學與成人教育的對話研討會」，台北，社區大學全國促進會。
+10. 蔡培慧，2004.11.13 ＜組織知識：課程、對話與學習＞，發表於「社區大學與成人教育的對話研討會」，台北，社區大學全國促進會。
 11. 蔡培慧，2003.04.18＜全球化與台灣農業結構調整＞，發表於「全球衝擊 與鄉村調適研討會」。台北，台灣鄉村社會學會。
 
 三、專書及專書論文
@@ -59,7 +59,7 @@ E-mail：peihui@mail.shu.edu.tw</p>
 
 四、其他
 
-1. 蔡培慧（主編及撰文），2014《小農復耕：：好食材、好生態、好市集、好旅行》，台北，果力出版。
+1. 蔡培慧（主編及撰文），2014《小農復耕：好食材、好生態、好市集、好旅行》，台北，果力出版。
 2. 蔡培慧、陳怡慧、陳柏州（2004）《台灣的舊地名》，台北，遠足文化出版社。
 
 五、研究計畫
