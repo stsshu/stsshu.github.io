@@ -1,5 +1,5 @@
 ---
-title: 本所课程
+title: 本所課程
 subtitle: 
 layout: "page"
 icon: fa-chalkboard
