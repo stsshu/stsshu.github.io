@@ -6,7 +6,7 @@ icon: fa-user-circle
 order: 6
 ---
 
-<span class="image"><img style="width:100%;"  src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="" /></span>
+<span class="image"><img style="width:100%;"  src="{{ 'assets/images/logo.png' | relative_url }}" alt="" /></span>
 
 以下為本所畢業校友的介紹與心得分享，請點擊姓名進入查看：
 
