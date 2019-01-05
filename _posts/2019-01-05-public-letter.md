@@ -31,5 +31,5 @@ layout: post
 
 社發所全體教師敬上
 
-<span class="image"><img style="width:70%;"  src="{{ 'assets/images/comicforletter.jpg' | relative_url }}" alt="" /></span>
+<span class="image"><img style="width:85%;"  src="{{ 'assets/images/comicforletter.jpg' | relative_url }}" alt="" /></span>
 
