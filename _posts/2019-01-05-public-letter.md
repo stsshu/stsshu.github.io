@@ -1,5 +1,5 @@
 ---
-title: 回應校方「事後溝通」公開信
+title: 社發所全體教師回應校方「事後溝通」公開信
 author: 
 layout: post
 ---
