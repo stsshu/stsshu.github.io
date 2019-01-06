@@ -8,10 +8,6 @@ order: 5
 
 <span class="image"><img src="{{ 'assets/images/stillopen.jpg' | relative_url }}" alt="" /></span>
 
-<iframe width="90%" height="400" src="https://www.youtube.com/embed/PAXZF5wAjzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[招生影片連結](https://youtu.be/PAXZF5wAjzU)
-
 ## 所長的話
 
 社發所在1997年的創立引人側目，在創所所長成露茜教授，以及所有教師、職員、同學和畢業生的努力下，我們在保守的主流教育環境中逐漸撐開了培育進步知識份子的空間，讓更多人有機會反思資本主義社會的結構性壓迫、探索突破困局的可能路徑，以及思考和磨練基層組織工作的理論與方法。
@@ -23,6 +19,10 @@ order: 5
 社發所選擇的條道路或許崎嶇，但選擇了她，便是選擇了一條更有意義且色彩繽紛的人生道路。歡迎各位的加入，讓我們共同學習，相互提醒，彼此勉勵，在這條追求理想的道路上，結伴前進！
 
 <p align="right">所長 黃德北  </p>
+
+<iframe width="90%" height="400" src="https://www.youtube.com/embed/PAXZF5wAjzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[招生影片連結](https://youtu.be/PAXZF5wAjzU)
 
 ### ＊＊＊碩士班考試入學＊＊＊
 
