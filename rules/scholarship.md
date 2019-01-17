@@ -27,3 +27,11 @@ hide: true
 - 電子郵件：e62@cc.shu.edu.tw
 
 <p class="main_text"><a href="../download/rule991125.doc" title="世新大學成露茜紀念獎學金辦法">世新大學成露茜紀念獎學金辦法</a> <a href="../download/form991125.doc" title="世新大學成露茜紀念獎學金申請表">世新大學成露茜紀念獎學金申請表</a></p>
+
+## 【世新社發所成露茜獎學金2019年申請說明】
+
+- 📅申請截止日期：2019/8/31
+- 📅結果公佈日期：2019/9/10註冊日前
+- 申請方式：於截止日前寄送申請表單及申請書至e62@mail.shu.edu.tw
+- 申請資格：碩士班錄取新生及在學一、二年級學生
+- 申請表單：[下載地址](https://e62.shu.edu.tw/download/form991125.doc)
