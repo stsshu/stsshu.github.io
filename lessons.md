@@ -12,10 +12,11 @@ order: 3
 
 </style>
 ---
+### 往年課程
 
 #### [1072學期課程課綱](lesson_outline/1072.md)
-
-往年課程大綱請前往[世新大學山洞口資訊系統](https://ap2.shu.edu.tw/STU1/Index.aspx)進行查詢（請點選左下角的新生/訪客）。
+<br>
+其他年度課程大綱請前往[世新大學山洞口資訊系統](https://ap2.shu.edu.tw/STU1/Index.aspx)進行查詢（請點選左下角的新生/訪客）。
 
 ---
 
@@ -30,7 +31,7 @@ order: 3
 #### D、定點實習：
 藉由持續性地參與一個非政府組織的工作，學習活用社會發展的理論與技能。與社發所合作之實習定點包括海內外從事鄉村、性別、勞工、移民／工、遊民等領域之社會服務與社會運動團體。
 
-- [定點實習辦法](https://e62.shu.edu.tw/rules/pratical.html)
+- [「定點實習辦法」](https://e62.shu.edu.tw/rules/pratical.html)
 - [「世新大學社會發展研究所定點實習團隊合作一覽表」](https://e62.shu.edu.tw/download/定點實習團隊合作一覽表1080916.docx)
 - [「定點實習同意書」](https://e62.shu.edu.tw/download/定點實習同意書107.doc)
 - [「實習時數紀錄表」](https://e62.shu.edu.tw/download/實習時數紀錄表.doc)
