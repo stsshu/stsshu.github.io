@@ -9,10 +9,6 @@ hide: true
 Name: Cheng-Liang Chen  
 Position: Associate Professor    
 Education: Ph.D., Department of Sociology, Lancaster University  
-Contacts:  
-  TEL: (02) 22368225 ext. 83514  
-  FAX: (02) 22365732  
-  E-mail: chencl@mail.shu.edu.tw  
 
 曾任職：世新大學社會發展研究所副教授  
 最高學歷：Lancaster Unversity , Sociology Department博士  
