@@ -10,7 +10,7 @@ order: 8
 
 [影片連結](https://www.youtube.com/watch?v=q18EzX3wE04)
 
-### 社發所特色課程簡介「CENA,Civil Society Education Network in Asia」
+### 社發所特色課程「CENA,Civil Society Education Network in Asia」
 
 CENA試圖建立一個以市民社會教育、民主轉型教育推動為主的暑期學校。第一次是在2011，最近一次是2019沖繩。
 
