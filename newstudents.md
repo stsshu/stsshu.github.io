@@ -48,4 +48,6 @@ order: 5
 - 經本校教職員推薦，申請人免繳報名費。
 - 設籍台北市文山區居民經推薦，申請人免繳報名費。
 - 請有興趣的報名者聯繫所辦e62@mail.shu.edu.tw或直接聯繫本所教師。
+
+<span class="image"><img style="width:100%;"  src="{{ 'assets/images/newstu2019.jpg' | relative_url }}" alt="" /></span>
 	
