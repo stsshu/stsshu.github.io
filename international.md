@@ -2,7 +2,7 @@
 title: 國際連結
 subtitle: 
 layout: "page"
-icon: fa-user-graduate
+icon: fa-globe-asia
 order: 8
 ---
 
