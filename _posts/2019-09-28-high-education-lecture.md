@@ -4,7 +4,7 @@ author:
 layout: post
 ---
 
-<span class="image"><img style="width:100%;"  src="{{ 'assets/images/high-education-lecuture.jpg' | relative_url }}" alt="" /></span>
+<span class="image"><img style="width:100%;"  src="{{ 'assets/images/high-education-lecture.jpg' | relative_url }}" alt="" /></span>
 
 台灣過去數十年來一點一滴建立起來的人文社會科學高等教育人才培育機構以及學術研究能量，近幾年來面對了空前嚴重的危機。
 
