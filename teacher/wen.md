@@ -6,19 +6,19 @@ hide: true
 
 <span style="max-width:30%;" class="image right"><img src="{{ 'assets/images/wen.jpg' | relative_url }}" alt="" /></span>
 
-Name: Arora Wen
-Position: Assistant Professor
-Education: Ph.D., Department of Political Science, National Cheng-Chi University
-Contacts:
-TEL: (02) 22368225 ext. 83007
-FAX: (02) 22365732
-E-mail: arorawen@hotmail.com
+Name: Arora Wen  
+Position: Assistant Professor  
+Education: Ph.D., Department of Political Science, National Cheng-Chi University  
+Contacts:  
+TEL: (02) 22368225 ext. 83007  
+FAX: (02) 22365732  
+E-mail: arorawen@hotmail.com  
 
-現職：世新大學社會發展研究所助理教授
-最高學歷：國立政治大學東亞研究所博士/
-E-mail：arorawen@hotmail.com
-學術研究：當代中國研究、消費文化與理論研究、國際關係研究
-開設課程：大國外交與全球體系、中國大陸後社會主義轉型、文明與國際關係
+現職：世新大學社會發展研究所助理教授  
+最高學歷：國立政治大學東亞研究所博士  
+E-mail：arorawen@hotmail.com  
+學術研究：當代中國研究、消費文化與理論研究、國際關係研究  
+開設課程：大國外交與全球體系、中國大陸後社會主義轉型、文明與國際關係  
 
 <p><strong>研究著作：</strong></p>
 
