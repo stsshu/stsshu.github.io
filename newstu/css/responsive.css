@@ -72,6 +72,7 @@
   }
   #carousel-area .carousel-item .carousel-caption h5 {
     font-size: 12px;
+    display: none;
   }
   #carousel-area .btn-lg{
     margin: 3px;
