@@ -13,3 +13,5 @@ hide: true
 學術專長：傳播社會學、國際流動與發展
 
 ## [紀念網站（存檔）](https://web.archive.org/web/20160302163402/http://www.luciememory.org/)
+
+<iframe width="90%" height="400" src="https://www.youtube.com/embed/kLxDEg39r7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
