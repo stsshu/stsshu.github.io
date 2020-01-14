@@ -14,3 +14,4 @@ order: 4
 5. [📖碩士學位考試相關規定](rules/exam.html)
 6. [📖指導教授制度](rules/tutor.html)
 7. [📖世新大學成露茜紀念獎學金](rules/scholarship.html)
+8. [📖世新大學奬勵區域入學研究生獎學金辦法](rules/wenshan.html)
