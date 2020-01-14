@@ -1,5 +1,5 @@
 ---
-title: 本所規定
+title: 相關規定
 subtitle: 
 layout: "page"
 icon: fa-book
