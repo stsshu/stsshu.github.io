@@ -11,7 +11,7 @@ Position: Assistant Professor 
 Education: Ph.D., Department of Sociology, University of National Cheng-Chi University    
 Contacts:    
 TEL: (02) 22368225 ext. 83537    
-FAX: (02) 22365732 
+FAX: (02) 22365732     
 E-mail: pastor38@mail.shu.edu.tw   
 
 現職：世新大學社會發展研究所助理教授    
