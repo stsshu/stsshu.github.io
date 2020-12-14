@@ -27,7 +27,7 @@ order: 3
 
 - [「定點實習辦法」](https://e62.shu.edu.tw/rules/pratical.html)
 - [「世新大學社會發展研究所定點實習團隊合作一覽表」](https://e62.shu.edu.tw/download/定點實習團隊合作一覽表1080916.docx)
-- [「定點實習同意書」](https://e62.shu.edu.tw/download/定點實習同意書107.doc)
+- [「定點實習同意書」](https://e62.shu.edu.tw/download/定點實習同意書108.docx)
 - [「實習時數紀錄表」](https://e62.shu.edu.tw/download/實習時數紀錄表.doc)
 
 #### D、論文寫作：
