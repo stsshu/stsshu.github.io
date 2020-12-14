@@ -24,7 +24,7 @@ hide: true
 - 帳號：0002765-0087806
 - 聯絡事宜：世新社發所
 - 電話：02-22368225#63512
-- 電子郵件：e62@cc.shu.edu.tw
+- 電子郵件：e62@mail.shu.edu.tw
 
 <p class="main_text"><a href="../download/rule991125.doc" title="世新大學成露茜紀念獎學金辦法">📄世新大學成露茜紀念獎學金辦法</a><br> <a href="../download/form991125.doc" title="世新大學成露茜紀念獎學金申請表">📄世新大學成露茜紀念獎學金申請表</a></p>
 
