@@ -42,7 +42,7 @@ order: 7
 
 1970年代金銅礦脈日漸的枯竭，「台灣金屬礦業公司」開始進行大規模的露天開採，並轉移重心為礦物冶煉加工，另闢出路，時至1987年，終於因無力償還銀行貸款，宣告歇業，金瓜石百年的產金歲月就此結束。
 
-<br>
+---
 
 <span class="image"><img style="width:60%;min-width:300px;"  src="{{ 'assets/images/summer-school/2018-summer.jpg' | relative_url }}" alt="" /></span>
 
