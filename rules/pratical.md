@@ -36,6 +36,6 @@ hide: true
 
 ## 檔案下載
 
-- [「世新大學社會發展研究所定點實習團隊合作一覽表」](https://e62.shu.edu.tw/download/定點實習團隊合作一覽表1080916.docx)
+- [「世新大學社會發展研究所定點實習團隊合作一覽表」](https://docs.google.com/document/u/3/d/1_wbHNsPFf9OZS11coym0uL-JBv9_dUvsHi5pcw7JAUk/edit?usp=sharing)
 - [「定點實習同意書」](https://e62.shu.edu.tw/download/定點實習同意書108.docx)
 - [「實習時數紀錄表」](https://e62.shu.edu.tw/download/實習時數紀錄表.doc)
