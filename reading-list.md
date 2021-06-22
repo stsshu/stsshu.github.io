@@ -15,3 +15,5 @@ order: 4
 6. [📖指導教授制度](rules/tutor.html)
 7. [📖世新大學成露茜紀念獎學金](rules/scholarship.html)
 
+- 上述1-6項，詳見[世新大學社會發展研究所研究生須知](https://drive.google.com/file/d/1njdXR0tXv0E70sqrHZ12VNEWRU10dVon/view?usp=sharing)
+ 
